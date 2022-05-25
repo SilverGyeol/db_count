@@ -1,5 +1,7 @@
 # db_count
-데이터베이스를 이용한 웹페이지 방문자 체크
+## 데이터베이스를 이용한 웹페이지 방문자 체크
 
+### date함수를 이용하여 당일 이용객과 전체 이용객을 파악
 ![image](https://user-images.githubusercontent.com/94829177/170228343-74c034c3-d779-4256-abad-813e058dcc07.png)
-![image](https://user-images.githubusercontent.com/94829177/170228387-79a6917b-005e-4dfa-96d9-802290b628f2.png)
+![image](https://user-images.githubusercontent.com/94829177/170240049-ef9d7e91-d5f7-45fd-8590-dea6db0a1fa9.png)
+![image](https://user-images.githubusercontent.com/94829177/170239883-651cc6b2-47ca-4bb6-9e70-392563cdbe03.png)
